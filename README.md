@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheikh Saif Ali</h1>
-<h3 align="center">Senior Software Engineer · Java · Spring Boot · Microservices · Kafka · Kubernetes</h3>
+<h3 align="center">Senior Full Stack Engineer | Java, Spring Boot, Angular, Kafka</h3>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 - 🤝 I'm looking for help with **deep-diving into reactive programming (Spring WebFlux)** and **advanced Kubernetes patterns** for production-grade distributed systems
 
-- 🌱 I'm currently learning **Angular (frontend contributions via open source)**, **AWS Solutions Architect** certification, and **observability with OpenTelemetry + Micrometer**
+- 🌱 I'm currently working & learning **Angular (frontend contributions via open source)**, **AWS Solutions Architect** certification, and **observability with OpenTelemetry + Micrometer**
 
 - 💬 Ask me about **Java · Spring Boot · Microservices · Kafka · Redis · Docker · Kubernetes · REST API design · distributed systems · banking platform architecture**
 
@@ -60,7 +60,7 @@
 
 > Just started my open source journey — contributing to the Spring Cloud ecosystem
 
-- 🔧 **spring-cloud/spring-cloud-config** — [Issue #2272](https://github.com/spring-cloud/spring-cloud-config/issues/2272) fixing unresolved Antora docs reference
+- 🔧 **spring-cloud/spring-cloud-config** — working on a docs fix in spring-cloud-config (Issue #2272)
 - 🔧 **spring-cloud/spring-cloud-gateway** — exploring filter and predicate documentation gaps
 
 ---
@@ -79,5 +79,5 @@
 ---
 
 <p align="center">
-  <i>Uttar Pradesh, India · 7+ years in backend engineering · Open to senior backend / distributed systems roles</i>
+  <i>Gurugram, India · 8+ years in backend engineering · Open to senior backend / distributed systems roles</i>
 </p>
